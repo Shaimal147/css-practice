@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: hotpink;
+}
+
+h1, h2, h3, li::marker{
+    color: gold;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: gold;
+}
+
+
